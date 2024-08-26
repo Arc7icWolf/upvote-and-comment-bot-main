@@ -1,0 +1,15 @@
+[Global]
+; Command the bot should listen for
+BOT_COMMAND_STR = !CURATE
+; Disable to stop the bot from posting comments
+ENABLE_COMMENTS = False
+; Disable to stop the bot from upvoting
+ENABLE_UPVOTES = True
+; Accounts allowed to call the bot
+CALLER_ACCOUNT = arc7icwolf
+; Account the bot will post and upvote from
+ACCOUNT_NAME = wolf-lord
+; Posting key for the account
+ACCOUNT_POSTING_KEY = 5JdmTY4Pw4br6sGPmyFkcXcLW2QqDi4Kh94d5fXc1rxha1LNedo
+; Hive API node to use for read/write/upvote ops
+HIVE_API_NODE = https://api.deathwing.me
